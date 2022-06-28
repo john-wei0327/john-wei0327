@@ -4,7 +4,8 @@
 💞️ I love seeing how data can be translated into something visual and almost tell a story. 
 
 ✨✨✨ <br />
-Keep an eye out, there's more to come! 
+Keep an eye out, there's more to come!  <br />
+✨✨✨
 
 <!---
 john-wei0327/john-wei0327 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
